@@ -1,2 +1,2 @@
-# excelsior
+# Excelsior
 Fest website
